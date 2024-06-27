@@ -1,2 +1,2 @@
 # Feature-engineering-PCA-curse-of-dimensionality-reduction
-I learned how to use PCA (Principal Component Analysis) to address the curse of dimensionality by reducing the number of variables in high-dimensional datasets while preserving important information.
+I learned how PCA can simplify complex datasets by transforming correlated variables into a smaller set of uncorrelated components, known as principal components. This reduction not only speeds up computation but also helps in visualizing and interpreting data patterns more effectively, making it useful for enhancing model performance and understanding data relationships in various analytical tasks.
